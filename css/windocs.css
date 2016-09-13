@@ -1,0 +1,15 @@
+﻿
+/* Heading 1 colour is the Eurotech blue */
+h1 { color: #5495CD; }
+
+/* Heading 2 cloour is darker gray */
+h2 { color: #444444; }
+
+/*	Each of the actual documentation pages ends up in a div called contents,
+	it's fixed at 800 pixcels wide with a 20 pixel left margin, the text is light gray.
+*/
+#Contents { 
+	width:800px;
+	color: #666666;
+	margin-left: 20px;
+}
